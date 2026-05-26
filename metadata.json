@@ -1,0 +1,6 @@
+{
+  "name": "رواء - تذكير شرب الماء",
+  "description": "تطبيق تذكير شرب الماء بانتظام مع منبهات ذكية وشاشة منبثقة تفاعلية تجبرك على شرب الماء لتجنب الجفاف والمحافظة على نشاطك وصحتك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
